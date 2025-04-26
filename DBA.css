@@ -1,0 +1,228 @@
+body
+
+{
+
+  Background-Color: Grey;
+
+  font-family: Arial, sans-serif;
+  margin: 20px;
+
+}
+
+Button
+
+{
+
+  Color: Black;
+  Background-Color: rgb(143, 143, 255);
+
+  Border-Radius: 15px;
+
+}
+
+Input
+
+{
+
+  Border-Radius: 10px;
+  Height: 30px;
+  width: 200px;
+  
+}
+
+form 
+
+{
+
+  margin-bottom: 20px;
+  Border-Radius: 20px;
+
+}
+
+label 
+
+{
+
+  display: block;
+  margin-bottom: 5px;
+
+}
+
+input
+
+[type="text"], input[type="email"], button 
+
+{
+
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  max-width: 300px;
+
+}
+
+table 
+
+{
+
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+
+}
+
+table, th, td 
+
+{
+
+  border: 1px solid #ddd;
+
+}
+
+th, td 
+
+{
+
+  padding: 8px;
+  text-align: left;
+
+}
+
+
+.History
+
+{
+
+    Margin: 0px 0px 0px;
+    padding: 100Px 300px 24px;
+
+    Background-Color: Black;
+    Color: White;
+
+}
+
+.History .Container
+
+{
+
+    Max-Width: 1200px;
+
+    Display: Flex;
+    Align-Items: Center;
+    Flex-Wrap: Nowrap;
+    Gap: 200px;
+
+    Border-Bottom: 4px solid red ;
+
+}
+
+.History .Container .Col
+
+{
+
+    Flex: 1 1 850px;
+    Width: 880px;
+    
+
+}
+
+.History Img
+
+{
+
+    Width: 100%;
+    Padding-Left: space-around;
+
+}
+
+.History Img
+
+{
+
+    Width: 450px;
+    Padding-Left: space-around;
+    Border-Radius: 15px;
+
+}
+
+.History h2
+
+{
+
+    Border-Left: 4px dashed rgb(255, 0, 0);
+    Padding-Left: 8px;
+
+}
+
+
+.History A
+
+{
+
+    Color: rgb(255, 0, 0);
+
+}
+
+.History P
+
+{
+
+    Line-Height: 1.5;
+
+}
+
+.History h2
+
+{
+
+    Border-Left: 4px dashed rgb(255, 0, 0);
+    Padding-Left: 8px;
+
+}
+
+.History A:Hover
+
+{
+
+    Color: rgb(0, 255, 221);
+    Transition: Color 0.8s;
+
+}
+
+Footer 
+
+{
+
+    Padding: 64px 24px;
+    Text-Align: Center;
+
+    Background-Color: Black;
+    Color: White;
+
+}
+
+Footer A
+
+{
+
+    Color: Red; 
+    
+}
+
+Footer A:Hover
+
+{
+
+    Color: rgb(0, 255, 221);
+    Transition: Color 0.8s;
+
+}
+
+Nav Button
+
+{
+
+    Margin-Left: 650px;
+    Margin-Top: 15px;
+
+}
